@@ -1,0 +1,8 @@
+footer {
+    border: 3px solid #ccc;
+    border-radius: 3px;
+    padding: 1em;
+    &:hover {
+        border: 5px dotted red;
+    }
+}
